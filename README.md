@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>BuildMart Real Estate</title>
