@@ -27,7 +27,7 @@
    
      <form action="https:" style="text-align: right;"> <input type="Search" placeholder="Type to search" id="search-bar"><button>search</button> </form>
   </nav>
-      </form>
+    
   <h2 style="font-size: 60px;">Your Partner <br>in aid of a house</h2>
   
 
@@ -52,68 +52,4 @@
 
  </body>
 </html>
-h1{
-    font-style: italic;
-    color:brown;
-    margin-right: 400px;
-    font-size: 15px;
-}
-
-h3 {
-    text-align:right;
-    margin: 4;
-    color:brown;
-    
-    
-
-}
-h2 {
-    color: blue;
-}
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: space-between;
-    
-}
-nav li {
-    margin-right: 50px;
-    color: beige;
-}
- 
-body {
-    
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../../Pictures/IMG-20251129-WA0039.jpg);
-    background-size: cover;
-}
-
-h4 {
-    color: beige;
-}
-.logo-container{
-    display:flex;
-    align-items: center;
-    
-}   
-
-p{
-   color: green; 
-}
-.small-image{
-    width:500px;
-    height: 400px;
-}
- 
-form {
-    text-align: right;
-    
-}
 
