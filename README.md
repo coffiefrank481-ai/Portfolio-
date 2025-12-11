@@ -1,4 +1,4 @@
-![IMG-20251203-WA0011](https://github.com/user-attachments/assets/c41c6812-8427-405f-b01c-608facd2033d)
+
 <!DOCTYPE html>
 <html>
   <head>
