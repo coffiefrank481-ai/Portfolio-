@@ -63,13 +63,14 @@
   <label for="Password">Password</label>
   <input type="text" id="Password" name="Password" placeholder="Enter Password Here">
  
-</form>
+
 -->
 <!--<section id="featured-properties">
   <h2>Featured Properties</h2>
 -->
-  <ul>
+  
 <!----
+<ul>
     <li>
     <img src="c:\Users\coffi\OneDrive\Pictures\IMG-20251202-WA0047.jpg" alt="Property 1" class="small-image">
       <h3>Property 1</h3>
@@ -97,7 +98,7 @@
   <p>Location: Accra, Ghana</p>
   <p>Price: $500,000</p>
 -->
-</section>
+
     <section id="about">
       <h2>About Us</h2>
    
@@ -119,4 +120,3 @@
 
  </body>
 </html>
-![IMG-20251203-WA0011](https://github.com/user-attachments/assets/3f782dea-c68a-4c7d-acc1-49bf201ee2b6)
