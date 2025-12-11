@@ -29,75 +29,7 @@
   </nav>
       </form>
   <h2 style="font-size: 60px;">Your Partner <br>in aid of a house</h2>
-  <!----
-  <ul>
-    <li>mic</li>
-    <li>No</li>
-  </ul>
-  <ol type="i">
-    <li>mo</li>
-    <li>ro</li>
-  </ol>
---
- <table border="5" cellspacing="0">
-  <tr>
-    <th>House</th>
-    <th>Prices</th>
-  </tr>
-  <tr>
-    <td>Single Room with Kitchen</td>
-    <td>Ghc 4,000</td>
-  </tr>
-  <tr>
-    <td>Two bedrooms with Kitchen</td>
-    <td>Ghc 6,000</td>
-  </tr>
- </table>
--->
-<!----
-  <form id="property-search">
-  <label for="Email">Email</label>
-  <input type="text" id="Email" name="Email" placeholder="Enter Email Here">
-  </form>
-  <form id="property-search">
-  <label for="Password">Password</label>
-  <input type="text" id="Password" name="Password" placeholder="Enter Password Here">
- 
-
--->
-<!--<section id="featured-properties">
-  <h2>Featured Properties</h2>
--->
   
-<!----
-<ul>
-    <li>
-    <img src="c:\Users\coffi\OneDrive\Pictures\IMG-20251202-WA0047.jpg" alt="Property 1" class="small-image">
-      <h3>Property 1</h3>
-      <p>Location: Accra, Ghana</p>
-      <p>Price: $50,000</p>
-    </li>
-    <li>
-      <img src="c:\Users\coffi\OneDrive\Pictures\IMG-20251202-WA0051.jpg" alt="Property 2">
-      <h3>Property 2</h3>
-      <p>Location: Tema, Ghana</p>
-      <p>Price: $600,000</p>
-    </li>
-    <li>
-      <img src="c:\Users\coffi\OneDrive\Pictures\IMG-20251202-WA0055.jpg" alt="Property 3">
-      <h3>Property 3</h3>
-      <p>Location: Takoradi, Ghana</p>
-      <p>Price: $40,000</p>
-    </li>
-  </ul>
--->
-
-<!----  <img src="c:\Users\coffi\OneDrive\Pictures\IMG-20251202-WA0055.jpg" alt="Properties 1" class="small-image" > 
-  
-  <h3>Property 1</h3>
-  <p>Location: Accra, Ghana</p>
-  <p>Price: $500,000</p>
--->
 
     <section id="about">
       <h2>About Us</h2>
